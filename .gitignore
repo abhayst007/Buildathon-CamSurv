@@ -1,7 +1,7 @@
 output/
 output/*
-sources/
-web/
+# sources/
+# web/
 .next/
 node_modules/
 __pycache__/
